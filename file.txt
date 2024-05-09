@@ -1,0 +1,8 @@
+new screens:
+1- setting screen
+2- privacy
+3- Help
+4- About
+
+change:
+display profile
